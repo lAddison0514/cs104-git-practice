@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+#others
+hello_world
